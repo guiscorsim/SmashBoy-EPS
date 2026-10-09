@@ -1,2 +1,4 @@
 # SmashBoy-EPS
-Sistema de Energia de CubeSat 2U
+The Electrical Power System (EPS) is responsible for generating, storing, and distributing the electrical energy required by the CubeSat throughout the mission. Its main objective is to ensure autonomous operation of all subsystems during the mission window and the environmental testing phases. 
+
+The EPS includes a rechargeable battery capable of sustaining the full mission duration, being able to recharge it from a light source representative of solar input, with charging current and voltage monitored and evaluated, as well as temperature. It keeps the battery within safe operating limits of voltage and current during all test phases, and reports power parameters as part of the structured telemetry. The internal battery can be removed during tests while the system remains fully functional, with the external power interface providing electrical characteristics equivalent to nominal operating conditions without interfering with system performance. 
